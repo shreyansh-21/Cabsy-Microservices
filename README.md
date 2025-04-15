@@ -1,4 +1,5 @@
-<h1>Cabsy Microservices</h1>
+<h1>Cabsy Microservices <img src="https://media.giphy.com/media/3oFzmrP8ZDnNZxsyFW/giphy.gif?cid=ecf05e47189oq11pvwdlpv73rpb384h39aru9ns5zbjqimha&ep=v1_gifs_search&rid=giphy.gif&ct=g" 
+           height="50" width="250" alt="logo" /></h1>
 
 <p>Welcome to the <strong>Cabsy Microservices</strong> repository! This project demonstrates a microservices architecture for a cab booking system, focusing on scalability, maintainability, and efficient service communication.</p>
 
